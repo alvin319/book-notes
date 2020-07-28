@@ -12,7 +12,7 @@ numpy==1.11.1
 pandas==0.18.1
 pexpect==4.2.1
 pickleshare==0.7.4
-Pillow==6.2.0
+Pillow>=7.1.0
 prompt-toolkit==1.0.9
 ptyprocess==0.5.1
 Pygments==2.1.3
